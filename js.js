@@ -15,4 +15,8 @@ console.log(result);
 
 const res = (a, b) => a + b;
 const mul = res(90, 5);
+const b = mul
 console.log(mul);
+
+const a = ["sawon", "sawo", "saw"];
+console.log(...a, 9);
