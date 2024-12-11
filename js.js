@@ -6,4 +6,3 @@ else{
     console.log("I am not a number");
 }
 
-console.log(typeof Array.isArray(num));
