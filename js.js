@@ -27,3 +27,11 @@ function second(a, b){
 }
 const result = second(4, 4);
 console.log(result);
+
+const x = [];
+if(x){
+    console.log("The value is truthy");
+}
+else{
+    console.log("The value is falsy");
+}
