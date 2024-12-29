@@ -21,17 +21,28 @@
 // const a = ["sawon", "sawo", "saw"];
 // console.log(...a, 9);
 
-function second(a, b){
-    const x = a + b
-    return x
-}
-const result = second(4, 4);
-console.log(result);
+// function second(a, b){
+//     const x = a + b
+//     return x
+// }
+// const result = second(4, 4);
+// console.log(result);
 
-const x = [];
-if(x){
-    console.log("The value is truthy");
-}
-else{
-    console.log("The value is falsy");
-}
+// const x = [];
+// if(x){
+//     console.log("The value is truthy");
+// }
+// else{
+//     console.log("The value is falsy");
+// }
+
+const arr = [
+    {name: "sawon", result: "pass"},
+    {name: "siyam", result: "pass"},
+    {name: "rejoyan", result: "pass"},
+]
+
+console.log(arr);
+
+const bad = arr.filter(b => b.name !== "siyam")
+console.log(bad);
