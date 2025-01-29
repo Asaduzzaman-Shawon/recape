@@ -42,7 +42,7 @@ const arr = [
     {name: "rejoyan", result: "pass"},
 ]
 
-console.log(arr);
+// console.log(arr);
 
-const bad = arr.filter(b => b.name !== "siyam")
-console.log(bad);
+// const bad = arr.filter(b => b.name !== "siyam")
+// console.log(bad);
