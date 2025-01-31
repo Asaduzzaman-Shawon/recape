@@ -39,8 +39,8 @@
 const arr = [
     {name: "sawon", result: "pass"},
     {name: "siyam", result: "pass"},
-    {name: "rejoyan", result: "pass"},
-]
+    {name: "rejozan", result: "pass"},
+]z
 
 // console.log(arr);
 
