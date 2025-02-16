@@ -39,7 +39,7 @@
 const arr = [
     {name: "sawon", result: "pass"},
     {name: "siyam", result: "pass"},
-    {name: "rejon", result: "pass"},
+     
 ]
 
 // console.log(arr);
